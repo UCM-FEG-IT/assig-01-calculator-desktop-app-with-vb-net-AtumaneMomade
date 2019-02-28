@@ -1,0 +1,11 @@
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\bin\Release\Calculadora M.exe.config
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\bin\Release\Calculadora M.exe
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\bin\Release\Calculadora M.pdb
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\bin\Release\Calculadora M.xml
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\obj\Release\Calculadora_M.Form1.resources
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\obj\Release\Calculadora_M.Resources.resources
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\obj\Release\Calculadora M.vbproj.GenerateResource.cache
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\obj\Release\Calculadora M.vbproj.CoreCompileInputs.cache
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\obj\Release\Calculadora M.exe
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\obj\Release\Calculadora M.xml
+C:\Users\Atumane Momade\source\repos\Calculadora M\Calculadora M\obj\Release\Calculadora M.pdb
